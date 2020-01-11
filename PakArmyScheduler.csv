@@ -1,0 +1,42 @@
+
+OPERATION-1, Week-1, Week-2, Week-3, Week-4, Week-5, Week-6
+
+City 1, Troop-1:C- Cap. Kareem Jamil, Troop-3:A- Cap. Aamir Shahid, Troop-4:A- Maj. Ali, Troop-13:A- MGen. Jahangir Butt, Troop-14:A- Maj. Uzair Naqvi, Troop-5:A- Cap. Alamgir Haq
+City 2, Troop-5:C- Maj. Ali, Troop-6:B- Brig. Razi Baig, Troop-6:C- Brig. Iftikhar Syed, Troop-8:B- Brig. Gibran Shairwany, Troop-10:A- MGen. Firdous Ghauri, Troop-11:C- MGen. Raheel Kamal
+City 3, Troop-44:B- Lt.Gen. Allama Malik, Troop-37:D- Cap. Hafiz Omar, Troop-11:D- MGen. Nasir Ghauri, Troop-12:A- Brig. Cheema , Troop-50:C- MGen. Mubarik, Troop-12:B- Brig. Uzair Azmat
+City 4, Troop-12:D- MGen. Raheel Kamal, Troop-31:B- Maj. Anthony David , Troop-13:C- Cap. M. Sajid, Troop-14:B- Brig. Gibran Shairwany, Troop-16:B- Maj. Naeem Bhatti, Troop-17:B- Lt.Gen. Ahmad Bin Rasool 
+City 5, Troop-17:C- Lt.Gen. Qureshi, Troop-18:B- Cap. Hafiz Omar, Troop-19:B- Maj. Naeem Bhatti, Troop-19:D- Brig. Alvi Bakht, Troop-47:C- Lt.Gen. Khan Saeed, Troop-20:B- Maj. Ali Akram
+City 6, Troop-20:C- Brig. Saad Javed, Troop-32:D- Lt.Gen. Ali Akhtar , Troop-20:D- Lt.Gen. Riaz Ullah, Troop-21:A- Cap. Younas Sheikh, Troop-21:B- Maj. Umar Niaz, Troop-22:B- Lt.Gen. Khan Saeed
+City 7, Troop-22:D- Lt.Gen. Omar Fayyaz, Troop-41:C- Maj. Manan Rasheed , Troop-37:B- MGen. Raheel Kamal, Troop-23:B- Maj. Waqar Adil, Troop-48:B- Maj. Uzair Naqvi, Troop-24:A- Brig. Ali Ahmad
+City 8, Troop-24:D- Brig. Hayat Cheema, Troop-50:B- MGen. Jahangir Butt, Troop-26:B- Lt.Gen. Bashir Azmat, Troop-26:D- Maj. Hadi Ikram, Troop-32:B- Maj. Manan Rasheed , Troop-31:D- MGen. Jamal Husain
+City 9, Troop-28:A- Lt.Gen. Fawad Jaffar, Troop-28:B- Maj. Mammona Qudsia, Troop-30:C- Lt.Gen. Fawad Jaffar, Troop-28:D- Cap. Ali Mahmood, Troop-29:C- MGen. Firdous Ghauri, Troop-30:B- Brig. Gibran Shairwany
+City 10, Troop-30:D- Brig. Cheema , Troop-36:D- Maj. Waseem Hassan, Troop-28:C- Lt.Gen. Raza-ul-Haq, Troop-10:B- Cap. Kareem Jamil, Troop-31:C- MGen. Jahangir Butt, Troop-14:D- Cap. Alamgir Haq
+City 11, Troop-5:B- MGen. Waris Babar, Troop-32:A- Maj. Azeem Sami, Troop-8:D- MGen. Jahangir Butt, Troop-21:C- Lt.Gen. Fawad Jaffar, Troop-27:C- Brig. Hayat Cheema, Troop-34:D- Brig. Cheema 
+City 12, Troop-35:B- Brig. Uzair Azmat, Troop-16:D- Brig. Alvi Bakht, Troop-6:D- Maj. Uzair Nawaz Khan, Troop-42:D- MGen. Waris Babar, Troop-36:B- Brig. Uzair Azmat, Troop-9:A- Brig. Iftikhar Syed
+City 13, Troop-11:A- Maj. Uzair Nawaz Khan, Troop-2:D- Lt.Gen. Omar Fayyaz, Troop-46:A- Cap. Younas Sheikh, Troop-38:D- Maj. Mammona Qudsia, Troop-37:A- Maj. Naz Khan, Troop-25:B- Brig. Iftikhar Syed
+City 14, Troop-27:B- Maj. Anthony David , Troop-29:B- MGen. Jahangir Butt, Troop-37:C- Cap. Aamir Shahid, Troop-22:A- Maj. Mammona Qudsia, Troop-4:C- Brig. Hayat Cheema, Troop-20:A- Brig. Ali Ahmad
+City 15, Troop-14:C- Brig. Jamshaid Tariq, Troop-38:A- Cap. Alamgir Haq, Troop-39:A- MGen. Jamal Husain, Troop-40:A- Brig. Alvi Bakht, Troop-40:B- Maj. Hadi Ikram, Troop-41:A- Maj. Yasir Dar
+City 16, Troop-41:D- Brig. Hussain Ghauri, Troop-35:C- MGen. Waris Babar, Troop-29:A- Cap. Younas Sheikh, Troop-17:D- Cap. Aamir Shahid, Troop-49:A- Cap. M. Sajid, Troop-42:A- Cap. Mahmood Hunain
+City 17, Troop-25:C- Lt.Gen. Kashif Zeeshan, Troop-1:D- Maj. Burhan Sh., Troop-18:A- Maj. Burhan Sh., Troop-15:B- Maj. Salman Naz, Troop-42:C- Brig. Cheema , Troop-25:D- Maj. Ali Akram
+City 18, Troop-38:B- Cap. Awais Ather, Troop-39:B- Cap. Ali Mahmood, Troop-43:B- MGen. Jahangir Butt, Troop-33:D- Maj. Burhan Sh., Troop-34:B- Maj. Burhan Sh., Troop-43:C- Cap. Ali Mahmood
+
+OPERATION-2, Week-1, Week-2, Week-3, Week-4, Week-5, Week-6
+
+City 1,Troop-15:C- Cap. Awais Ather,Troop-38:C- Lt.Gen. Omar Fayyaz,Troop-44:C- Lt.Gen. Bashir Azmat,Troop-44:A- Maj. Naeem Bhatti,Troop-45:A- MGen. Nasir Ghauri,Troop-45:C- Cap. Aamir Shahid
+City 2,Troop-46:B- Maj. Saud,Troop-19:A- Cap. M. Sajid,Troop-7:A- Maj. Manan Rasheed ,Troop-17:A- Maj. Uzair Naqvi,Troop-4:B- Maj. Uzair Naqvi,Troop-35:D- Maj. Manan Rasheed 
+City 3,Troop-8:C- MGen. Jamal Husain,Troop-32:C- Maj. Ali,Troop-44:D- Brig. Hayat Cheema,Troop-46:C- Cap. Aamir Shahid,Troop-46:D- Cap. Hafiz Omar,Troop-39:C- Maj. Waseem Hassan
+City 4,Troop-10:D- Maj. Uzair Naqvi,Troop-34:A- Cap. Hafiz Omar,Troop-5:D- MGen. Jahangir Butt,Troop-43:D- Maj. Salman Naz,Troop-42:B- Maj. Muhammad Farooq,Troop-47:D- Maj. Uzair Nawaz Khan
+City 5,Troop-34:C- MGen. Mirza Akram ,Troop-48:A- Maj. Aamir Akhtar,Troop-3:C- MGen. Jahangir Butt,Troop-26:C- Brig. Saad Javed,Troop-1:A- MGen. Jahangir Butt,Troop-27:D- MGen. Jamal Husain
+City 6,Troop-8:A- MGen. Mubarik,Troop-39:D- Cap. Kareem Jamil,Troop-48:C- Lt.Gen. Omar Fayyaz,Troop-4:D- Maj. Uzair Nawaz Khan,Troop-49:B- Maj. Ali Akram,Troop-33:A- Maj. Hadi Ikram
+City 7,Troop-27:A- Lt.Gen. Bashir Azmat,Troop-48:D- Brig. Saad Javed,Troop-21:D- Maj. Waseem Hassan,Troop-47:A- Lt.Gen. Raza-ul-Haq,Troop-49:D- Lt.Gen. Qureshi,Troop-50:D- Cap. Aamir Shahid
+City 8,Troop-51:B- Brig. Alvi Bakht,Troop-3:D- Maj. Umar Niaz,Troop-33:C- Brig. Hayat Cheema,Troop-7:B- Maj. Hadi Ikram,Troop-51:C- Brig. Hayat Cheema,Troop-45:B- Brig. Alvi Bakht
+City 9,Troop-1:B- Brig. Hayat Cheema,Troop-51:D- Maj. Muhammad Farooq,Troop-11:B- Maj. Naeem Bhatti,Troop-26:A- MGen. Mirza Akram ,Troop-33:B- Lt.Gen. Qureshi,Troop-43:A- MGen. Jamal Husain
+City 10,Troop-36:C- Maj. Azeem Sami,Troop-9:D- Brig. Uzair Azmat,Troop-16:A- Maj. Aamir Akhtar,Troop-40:D- Maj. Uzair Naqvi,Troop-15:A- MGen. Nasir Ghauri,Troop-6:A- MGen. Firdous Ghauri
+City 11,Troop-10:C- MGen. Jamal Husain,Troop-9:C- Maj. Yasir Dar,Troop-51:A- MGen. Nasir Ghauri,Troop-2:B- MGen. Waris Babar,Troop-35:A- Cap. Younas Sheikh
+City 12,Troop-31:A- MGen. Mubarik,Troop-7:D- Lt.Gen. Khan Saeed,Troop-36:A- Maj. Ali Akram,Troop-25:A- Brig. Uzair Azmat,Troop-29:D- Cap. Alamgir Haq,Troop-2:C- Lt.Gen. Raza-ul-Haq
+City 13,Troop-7:C- Brig. Hussain Ghauri,Troop-23:C- Maj. Naeem Bhatti,Troop-16:C- Maj. Burhan Sh.,Troop-13:B- Lt.Gen. Qureshi,Troop-18:C- MGen. Mirza Akram ,Troop-13:D- Maj. Azeem Sami
+City 14,Troop-30:A- Maj. Muhammad Farooq,Troop-40:C- Maj. Aamir Akhtar,Troop-15:D- Maj. Burhan Sh.,Troop-24:C- Maj. Uzair Nawaz Khan,Troop-19:C- Maj. Uzair Naqvi
+City 15,Troop-47:B- Cap. M. Sajid,Troop-49:C- Maj. Waqar Adil,Troop-2:A- Maj. Ahmad Danyal,Troop-12:C- Lt.Gen. Fawad Jaffar,Troop-18:D- Maj. Uzair Nawaz Khan
+City 16,Troop-23:D- MGen. Jamal Husain
+City 17,Troop-41:B- Brig. Iftikhar Syed,Troop-3:B- Maj. Azeem Sami,Troop-9:B- MGen. Mubarik,Troop-23:A- Maj. Waqar Adil,Troop-22:C- Cap. Hafiz Omar,Troop-45:D- Lt.Gen. Abid Saleem
+City 18,Troop-24:B- MGen. Firdous Ghauri,Troop-50:A- Brig. Iftikhar Syed

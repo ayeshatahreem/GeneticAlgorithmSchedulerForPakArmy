@@ -1,0 +1,10 @@
+Hard contraints alongwith violation count:
+1.Troop leader can lead one troop group at a time = 0
+2. Troop group should be assigned one duty at one particular time = 83
+3. A target area should have one troop at a time = 0
+4. All troops must be assigned to their duties = 0
+5. A troop must have one duty at a particular area within every two duty periods = 0
+Soft tracking alongwith violation count:
+1. Troop leader must be available at the time of operation = 216
+2. Troop leader should have no more than two duties in a single period = 52
+3. Officer having clashes should not have more than three duties during a single operation = 31
